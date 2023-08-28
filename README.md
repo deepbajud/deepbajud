@@ -1,3 +1,12 @@
+<div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Hi i'm Kevin Monapara &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+</div>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=41bd0b&vCenter=true&pause=1000&size=22" /></a>
+</p>
 # 💫 About Me:
 🔭 I’m currently working on dtbagl<br>👯 I’m looking to collaborate on any Payload<br>🤝 I’m looking for help for learning Metasploit Framework<br>🌱I’m currently learning Android, Ruby & Metasploit Framework<br>💬 Ask me about anything, I will try to give you satisfied answer on my best research<br>
 
