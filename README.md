@@ -7,7 +7,10 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=41bd0b&vCenter=true&pause=1000&size=22" /></a>
 </p>
-# 💫 About Me:
+<summary align="left">
+<img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F954826406720856084.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎‎ <h2>About Me:</h2>
+  </summary>
+
 🔭 I’m currently working on dtbagl<br>👯 I’m looking to collaborate on any Payload<br>🤝 I’m looking for help for learning Metasploit Framework<br>🌱I’m currently learning Android, Ruby & Metasploit Framework<br>💬 Ask me about anything, I will try to give you satisfied answer on my best research<br>
 
 
