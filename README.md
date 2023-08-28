@@ -11,10 +11,16 @@
 <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F954826406720856084.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎‎ <h2>About Me:</h2>
   </summary>
 
-🔭 I’m currently working on D-Chat Appbr>👯 I’m looking to collaborate on any Payload<br>🤝 I’m looking for help for learning Metasploit Framework<br>🌱I’m currently learning Android, Ruby & Metasploit Framework<br>💬 Ask me about anything, I will try to give you satisfied answer on my best research<br>
+🔭 I’m currently working on D-Chat App<br>👯 I’m looking to collaborate on any Payload<br>🤝 I’m looking for help for learning Metasploit Framework<br>🌱I’m currently learning Android, Ruby & Metasploit Framework<br>💬 Ask me about anything, I will try to give you satisfied answer on my best research<br>
 
 
-## 🌐 Socials: 
+![## 🌐 Socials: ]
+
+<summary align="left">
+<img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F808336213073199155.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎  ‎ <h1>Socials:</h1>
+</summary>
+
+
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/deepbajud) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4VrHKAHpZf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deep.golakiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deep_golakiya_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-golakiya-255bb2261) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dbajud) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/deepbajud) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Deep-Golakiya-7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/deepbajud) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21010520) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dbajud) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/deepbajud) 
 
 # 💻 Tech Stack:
