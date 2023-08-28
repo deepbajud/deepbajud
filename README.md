@@ -22,14 +22,15 @@
 ![Github Stats]
 <summary align="left">
     <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F1095708048506503279.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎ ‎ <h1>GitHub Stats:</h1>
-</summary>
-![](https://github-readme-stats.vercel.app/api?username=deepbajud&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepbajud&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbajud&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  </summary> 
+  
+![](https://github-readme-stats.vercel.app/api?username=kevin-monapara89&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kevin-monapara89&theme=ayu-mirage&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-monapara89&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <summary align="left">
-    <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F1095708048506503279.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎ ‎ <h1>GitHub Stats:</h1>
-  </summary> 
+<img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F985735061200580609.gif%3Fv%3D1&w=64&q=75" width="40px"> <h1> GitHub Trophies : </h1> 
+  </summary>
 
 
 <summary align="left">
