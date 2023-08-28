@@ -14,7 +14,7 @@
 🔭 I’m currently working on D-Chat App<br>👯 I’m looking to collaborate on any Payload<br>🤝 I’m looking for help for learning Metasploit Framework<br>🌱I’m currently learning Android, Ruby & Metasploit Framework<br>💬 Ask me about anything, I will try to give you satisfied answer on my best research<br>
 
 
-![## 🌐 Socials: ]
+
 
 <summary align="left">
 <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F808336213073199155.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎  ‎ <h1>Socials:</h1>
