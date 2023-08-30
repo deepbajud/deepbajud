@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepbajud&theme=tokyonight&hide_border=true)<br/>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepbajud)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 <!--<a href="https://github.com/deepbajud/convoychat">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10&card_width=450" /><!--200,330-->
