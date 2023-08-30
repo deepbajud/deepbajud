@@ -58,6 +58,17 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dbajud) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/deep364210) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/DeepGolakiya) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/deepgolakiya) 
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajpatel16&" alt="virajpatel16" /></p>
+<hr>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virajpatel16&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
+
+
+
+
   ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
