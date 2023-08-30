@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepbajud&theme=tokyonight&hide_border=true)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbajud&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbajud&langs_count=10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--<a href="https://github.com/deepbajud/convoychat">
