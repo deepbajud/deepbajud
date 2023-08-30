@@ -35,10 +35,14 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepbajud&theme=tokyonight&hide_border=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+
+<a href="https://github.com/virajpatel16/convoychat">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=12&card_width=450" /><!--200,330-->
+</a>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajpatel16&show_icons=true&locale=en&layout=compact" alt="virajpatel16" /></p>
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajpatel16&show_icons=true&locale=en&layout=compact" alt="deepbajud" /></p>
+<hr> -->
 
 
 
