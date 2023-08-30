@@ -37,7 +37,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepbajud&theme=tokyonight&hide_border=true)<br/>
 
 <a href="https://github.com/virajpatel16/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=12&card_width=450" /><!--200,330-->
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=12&card_width=450" /><!--200,330-->
 </a>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
 <hr>
