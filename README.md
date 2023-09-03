@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/dbajud"><img src="https://api.daily.dev/devcards/311e2833365f4f69a8d6242a9489b109.png?r=bt9" width="400" alt="Deep Golakiya's Dev Card"/></a>
+<a href="https://app.daily.dev/deepbajud"><img src="https://api.daily.dev/devcards/311e2833365f4f69a8d6242a9489b109.png?r=mru" width="400" alt="Deep Golakiya's Dev Card"/></a>
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Hi i'm Deep Golakiya &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
