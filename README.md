@@ -6,8 +6,7 @@
 </p>
 
 <p align="center" style="width: 100%;">
-  <a href="https://api.daily.dev/devcards/311e2833365f4f69a8d6242a9489b109.png?r=t3v" width="200" alt="Patrick Howard's Dev Card"/></a>
-
+  <a href="https://app.daily.dev/phoward38"><img align="center" src="https://api.daily.dev/devcards/311e2833365f4f69a8d6242a9489b109.png?r=ylj" width="200" alt="Patrick Howard's Dev Card"/></a>
 </p>
 
 
