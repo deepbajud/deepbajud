@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/deepbajud"><img src="https://api.daily.dev/devcards/311e2833365f4f69a8d6242a9489b109.png?r=mru" width="400" alt="Deep Golakiya's Dev Card"/></a>
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Hi i'm Deep Golakiya &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
@@ -7,6 +6,13 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=41bd0b&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+<p align="center" style="width: 100%;">
+  <a href="https://app.daily.dev/phoward38"><img align="center" src="https://api.daily.dev/devcards/311e2833365f4f69a8d6242a9489b109.png?r=ylj" width="200" alt="Patrick Howard's Dev Card"/></a>
+
+</p>
+
+
 <summary align="left">
 <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F954826406720856084.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎‎ <h2>About Me:</h2>
   </summary>
