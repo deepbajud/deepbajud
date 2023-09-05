@@ -88,7 +88,7 @@
 
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepbajud&bg_color=70a5fd&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://linkedin.com/in/deep-golakiya-255bb2261)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepbajud&bg_color=1a1b27&color=70a5fd&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://linkedin.com/in/deep-golakiya-255bb2261)
 
 
 
