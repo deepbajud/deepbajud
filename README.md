@@ -2,7 +2,7 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Hi i'm Deep Golakiya &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </div>   -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=41bd0b&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center" style="width: 100%;">
