@@ -44,7 +44,7 @@
 
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbajud&langs_count=20&card_width=450&theme=tokyonight&hide_border=true&include_all_commits=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbajud&langs_count=8&card_width=450&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 
 
