@@ -36,9 +36,10 @@
     <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F1095708048506503279.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎ ‎ <h1>GitHub Stats:</h1>
   </summary> 
 
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
+
+  ![](https://github-readme-stats.vercel.app/api?username=deepbajud&theme=ayu-tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=deepbajud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepbajud&theme=tokyonight&hide_border=true)<br/>
 
 
