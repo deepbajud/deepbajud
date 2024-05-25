@@ -69,7 +69,7 @@
 <!-- 
 ![](https://github-profile-trophy.vercel.app/?username=deepbajud&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 -->
-<img src="https://github-profile-trophy.vercel.app/?username=atapas&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=deepbajud&theme=juicyfresh&no-bg=true" />
 <!--## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=dbajud)](https://github.com/VishwaGauravIn/github-twitter-card-embed)-->
 
