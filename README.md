@@ -66,7 +66,7 @@
 <summary align="left">
 <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F985735061200580609.gif%3Fv%3D1&w=64&q=75" width="40px"> <h1> GitHub Trophies : </h1> 
   </summary>
-
+<!-- 
 ![](https://github-profile-trophy.vercel.app/?username=deepbajud&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <!--## 🐦 Latest Tweet
