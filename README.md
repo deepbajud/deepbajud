@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Android%20App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-
 <p align="center" style="width: 100%;">
   <a href="https://app.daily.dev/deepbajud"><img align="center" src="https://api.daily.dev/devcards/311e2833365f4f69a8d6242a9489b109.png?r=ylj" width="200" alt="Patrick Howard's Dev Card"/></a>
 </p>
