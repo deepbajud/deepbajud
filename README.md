@@ -10,7 +10,6 @@
   <a href="https://app.daily.dev/deepbajud"><img align="center" src="https://api.daily.dev/devcards/311e2833365f4f69a8d6242a9489b109.png?r=ylj" width="200" alt="Patrick Howard's Dev Card"/></a>
 </p>
 
-
 <summary align="left">
 <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F954826406720856084.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎‎ <h2>About Me:</h2>
   </summary>
