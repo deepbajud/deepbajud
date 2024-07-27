@@ -19,7 +19,6 @@
 
 
 
-
 <summary align="left">
 <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F808336213073199155.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎  ‎ <h1>Socials:</h1>
 </summary>
