@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="180" viewBox="0 0 1280 180" role="img" aria-label="Let's build something useful. Deep Golakiya.">
+<defs><linearGradient id="bg"><stop stop-color="#12332d"/><stop offset="1" stop-color="#101e30"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="178" rx="22" fill="url(#bg)" stroke="#2d4b50"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="640" y="52" fill="#84cdbd" font-size="12" letter-spacing="3" text-anchor="middle">BUILD. LEARN. REPEAT.</text>
+<text x="640" y="100" fill="#edf6ff" font-size="33" font-weight="700" text-anchor="middle">Let's build something useful.</text>
+<text x="640" y="136" fill="#9bb7c7" font-size="14" text-anchor="middle">Deep Golakiya · D-Tech Infotech</text></g></svg>

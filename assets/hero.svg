@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="570" viewBox="0 0 1280 570" role="img" aria-labelledby="title desc">
+<title id="title">Deep Golakiya — Android developer at D-Tech Infotech</title>
+<desc id="desc">An animated 3D-style Android phone floats among orbital rings. Java, Kotlin, and an always-learning mindset.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102434"/><stop offset=".55" stop-color="#0b1421"/><stop offset="1" stop-color="#08141c"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#23cba1" stop-opacity=".22"/><stop offset="1" stop-color="#23cba1" stop-opacity="0"/></radialGradient>
+ <linearGradient id="name"><stop stop-color="#6af4c4"/><stop offset="1" stop-color="#91caff"/></linearGradient>
+ <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#7897ab"/><stop offset=".4" stop-color="#263f55"/><stop offset="1" stop-color="#111d2b"/></linearGradient>
+ <linearGradient id="screen" x2=".9" y2="1"><stop stop-color="#153747"/><stop offset="1" stop-color="#0a1724"/></linearGradient>
+ <linearGradient id="cube" x2="1" y2="1"><stop stop-color="#65f0be"/><stop offset="1" stop-color="#309b9b"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#81c4dc" stroke-opacity=".055"/></pattern>
+ <filter id="shadow" x="-60%" y="-40%" width="230%" height="230%"><feDropShadow dx="-12" dy="24" stdDeviation="18" flood-color="#000" flood-opacity=".55"/></filter>
+ <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+ <clipPath id="round"><rect x="1" y="1" width="1278" height="568" rx="26"/></clipPath>
+</defs>
+<style>
+ text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}
+ .float{animation:float 6s ease-in-out infinite}.float2{animation:float 7s ease-in-out -2s infinite}
+ .orbit{transform-origin:979px 291px;animation:orbit 45s linear infinite}
+ .signal{animation:signal 4s ease-in-out infinite}.beam{animation:beam 5s linear infinite}
+ .role1{animation:role1 12s infinite}.role2{opacity:0;animation:role2 12s infinite}.role3{opacity:0;animation:role3 12s infinite}
+ @keyframes float{50%{transform:translateY(-14px)}}@keyframes orbit{to{transform:rotate(360deg)}}
+ @keyframes signal{50%{opacity:.3}}@keyframes beam{to{stroke-dashoffset:-120}}
+ @keyframes role1{0%,27%,100%{opacity:1}32%,95%{opacity:0}}
+ @keyframes role2{0%,30%,65%,100%{opacity:0}35%,60%{opacity:1}}
+ @keyframes role3{0%,63%,100%{opacity:0}68%,93%{opacity:1}}
+ @media(prefers-reduced-motion:reduce){.float,.float2,.orbit,.signal,.beam,.role1,.role2,.role3{animation:none!important}.role1{opacity:1}.role2,.role3{opacity:0}}
+</style>
+<g clip-path="url(#round)">
+ <rect width="1280" height="570" fill="url(#bg)"/><rect width="1280" height="570" fill="url(#grid)"/>
+ <ellipse cx="988" cy="267" rx="400" ry="350" fill="url(#aura)"/>
+ <path d="M660 570L905 190M810 570L971 190M970 570L1037 190M1150 570L1103 190M660 520H1280M708 466H1280M754 418H1280" stroke="#6bdabc" stroke-opacity=".08" fill="none"/>
+ <rect x="56" y="39" width="35" height="35" rx="10" fill="#65f0be"/>
+ <text x="73.5" y="62" fill="#0b1421" font-size="16" font-weight="800" text-anchor="middle">DG</text>
+ <text x="106" y="55" fill="#e5f1fa" class="mono" font-size="13" letter-spacing="1.8">D-TECH INFOTECH</text>
+ <text x="106" y="74" fill="#809ab1" class="mono" font-size="10" letter-spacing="1.9">ANDROID DEVELOPMENT</text>
+ <rect x="1020" y="43" width="202" height="31" rx="15.5" fill="#152d2d" stroke="#2c6356"/>
+ <circle cx="1038" cy="58.5" r="3.5" fill="#65f0be" class="signal"/>
+ <text x="1050" y="63" fill="#a2e6ce" font-size="11.5">Open to collaboration</text>
+
+ <text x="58" y="143" class="mono" fill="#88a9c1" font-size="13" letter-spacing="3.7">HELLO, WORLD. I'M</text>
+ <text x="53" y="229" fill="#edf6ff" font-size="94" font-weight="800" letter-spacing="-4">Deep</text>
+ <text x="51" y="328" fill="url(#name)" font-size="94" font-weight="800" letter-spacing="-4">Golakiya.</text>
+ <g fill="#d6e9f7" font-size="25" font-weight="600">
+  <text class="role1" x="58" y="383">Android App Developer</text>
+  <text class="role2" x="58" y="383">Java &amp; Kotlin enthusiast</text>
+  <text class="role3" x="58" y="383">Always learning. Always building.</text>
+ </g>
+ <text x="58" y="424" fill="#91a9bd" font-size="17">Turning ideas into useful everyday tools.</text>
+ <path class="beam" d="M58 450H571" stroke="#65f0be" stroke-width="2" stroke-opacity=".65" stroke-dasharray="18 102"/>
+
+ <ellipse cx="979" cy="310" rx="243" ry="119" transform="rotate(-23 979 310)" fill="none" stroke="#5286a0" stroke-opacity=".3"/>
+ <ellipse cx="979" cy="292" rx="183" ry="212" transform="rotate(38 979 292)" fill="none" stroke="#65f0be" stroke-opacity=".2" stroke-dasharray="3 9"/>
+ <g class="orbit" fill="none" stroke="#70bbff" stroke-opacity=".55"><ellipse cx="979" cy="291" rx="235" ry="92" transform="rotate(21 979 291)"/><circle cx="760" cy="254" r="4" fill="#70bbff" stroke="none"/></g>
+ <ellipse cx="957" cy="455" rx="133" ry="27" fill="#030a10" opacity=".6"/>
+
+ <g transform="translate(852 99)"><g class="float"><g transform="matrix(.94 .22 -.17 .94 0 0)" filter="url(#shadow)">
+  <rect x="10" y="14" width="236" height="353" rx="31" fill="#132d3d" stroke="#526d7e" stroke-width="1.5"/>
+  <rect width="236" height="353" rx="31" fill="url(#edge)" stroke="#93b9c8" stroke-width="1.5"/>
+  <rect x="7" y="7" width="222" height="339" rx="25" fill="#07131d"/>
+  <rect x="14" y="14" width="208" height="324" rx="20" fill="url(#screen)"/>
+  <rect x="87" y="21" width="63" height="12" rx="6" fill="#06121b"/>
+  <text x="29" y="35" font-size="9" fill="#d8ebf7">9:41</text>
+  <path d="M187 31h4m3-2h4m3-2h4" stroke="#65f0be" stroke-width="3"/>
+  <text x="30" y="74" fill="#9cb7c9" font-size="9" letter-spacing="1.8">THE ANDROID WORKSPACE</text>
+  <text x="29" y="102" fill="#eefbff" font-size="19" font-weight="700">Create. Test. Ship.</text>
+  <rect x="29" y="121" width="177" height="105" rx="14" fill="#204e51" stroke="#418776"/>
+  <circle cx="118" cy="174" r="35" fill="#65f0be" opacity=".12"/>
+  <g transform="translate(88 148) scale(2.5)" fill="#7afacb"><path d="M18.4395 5.5586c-.675 1.1664-1.352 2.3318-2.0274 3.498-.0366-.0155-.0742-.0286-.1113-.043-1.8249-.6957-3.484-.8-4.42-.787-1.8551.0185-3.3544.4643-4.2597.8203-.084-.1494-1.7526-3.021-2.0215-3.4864a1.1451 1.1451 0 0 0-.1406-.1914c-.3312-.364-.9054-.4859-1.379-.203-.475.282-.7136.9361-.3886 1.5019 1.9466 3.3696-.0966-.2158 1.9473 3.3593.0172.031-.4946.2642-1.3926 1.0177C2.8987 12.176.452 14.772 0 18.9902h24c-.119-1.1108-.3686-2.099-.7461-3.0683-.7438-1.9118-1.8435-3.2928-2.7402-4.1836a12.1048 12.1048 0 0 0-2.1309-1.6875c.6594-1.122 1.312-2.2559 1.9649-3.3848.2077-.3615.1886-.7956-.0079-1.1191a1.1001 1.1001 0 0 0-.8515-.5332c-.5225-.0536-.9392.3128-1.0488.5449zm-.0391 8.461c.3944.5926.324 1.3306-.1563 1.6503-.4799.3197-1.188.0985-1.582-.4941-.3944-.5927-.324-1.3307.1563-1.6504.4727-.315 1.1812-.1086 1.582.4941zM7.207 13.5273c.4803.3197.5506 1.0577.1563 1.6504-.394.5926-1.1038.8138-1.584.4941-.48-.3197-.5503-1.0577-.1563-1.6504.4008-.6021 1.1087-.8106 1.584-.4941z"/></g>
+  <rect x="29" y="241" width="82" height="54" rx="10" fill="#183443"/>
+  <rect x="123" y="241" width="83" height="54" rx="10" fill="#183443"/>
+  <text x="42" y="261" fill="#829eaf" font-size="9">LANGUAGE</text>
+  <text x="42" y="280" fill="#e7f6ff" font-size="14" font-weight="700">Java</text>
+  <text x="136" y="261" fill="#829eaf" font-size="9">LANGUAGE</text>
+  <text x="136" y="280" fill="#e7f6ff" font-size="14" font-weight="700">Kotlin</text>
+  <rect x="82" y="321" width="74" height="4" rx="2" fill="#87a7b9"/>
+ </g></g></g>
+
+ <g transform="translate(1123 130) rotate(10)"><g class="float2">
+  <rect x="5" y="7" width="67" height="67" rx="17" fill="#292d4c"/>
+  <rect width="67" height="67" rx="17" fill="#242d43" stroke="#8279c5"/>
+  <g transform="translate(18 18) scale(1.3333333333333333)" fill="#c5baff"><path d="M24 24H0V0h24L12 12Z"/></g>
+ </g></g>
+ <g transform="translate(725 332) rotate(-9)"><g class="float2">
+  <rect x="5" y="7" width="90" height="70" rx="15" fill="#142a3d"/>
+  <rect width="90" height="70" rx="15" fill="#132839" stroke="#396078"/>
+  <text x="45" y="33" text-anchor="middle" fill="#70bbff" class="mono" font-size="23" font-weight="700">&lt;/&gt;</text>
+  <text x="45" y="55" text-anchor="middle" fill="#9cb8ce" class="mono" font-size="9" letter-spacing="1.8">BUILD MODE</text>
+ </g></g>
+ <g fill="#9acfd9"><circle class="signal" cx="731" cy="158" r="2"/><circle cx="1198" cy="359" r="2"/><circle class="signal" cx="1131" cy="438" r="2.5"/><path d="M780 217h10m-5-5v10M1180 92h8m-4-4v8" stroke="#98bfce"/></g>
+
+ <path d="M56 493H1224" stroke="#2b4053"/>
+ <text x="58" y="533" fill="#bad0df" font-size="12" class="mono" letter-spacing="1.2">JAVA</text>
+ <circle cx="110" cy="529" r="2" fill="#65f0be"/>
+ <text x="128" y="533" fill="#bad0df" font-size="12" class="mono" letter-spacing="1.2">KOTLIN</text>
+ <circle cx="197" cy="529" r="2" fill="#65f0be"/>
+ <text x="215" y="533" fill="#bad0df" font-size="12" class="mono" letter-spacing="1.2">ANDROID</text>
+ <text x="1222" y="533" text-anchor="end" fill="#88a9c1" class="mono" font-size="12">github.com/deepbajud</text>
+</g><rect x="1" y="1" width="1278" height="568" rx="26" fill="none" stroke="#2d4558"/></svg>

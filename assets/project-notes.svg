@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="416" height="210" viewBox="0 0 416 210" role="img" aria-label="Note Pro App — A Kotlin notes app project.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#132532"/><stop offset="1" stop-color="#0b1420"/></linearGradient></defs>
+<rect x="1" y="1" width="414" height="208" rx="18" fill="url(#bg)" stroke="#2b4053"/>
+<path d="M24 0h75" stroke="#bdadff" stroke-width="3"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="27" y="38" font-size="11" letter-spacing="2" fill="#8da8bb">02 / ANDROID</text>
+<text x="27" y="80" font-size="27" fill="#edf6ff" font-weight="700">Note Pro App</text>
+<text x="27" y="114" font-size="14" fill="#9fb5c6">A Kotlin notes app project.</text>
+<rect x="26" y="149" width="69.2" height="29" rx="8" fill="#bdadff" opacity=".09"/>
+<text x="39" y="168" font-size="12" fill="#bdadff">Kotlin</text>
+<path d="M360 167h22m-7-7 7 7-7 7" fill="none" stroke="#bdadff" stroke-width="1.6"/>
+</g></svg>
