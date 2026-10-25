@@ -1,12 +1,25 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
-    <img src="./assets/hero.svg" width="100%" alt="Deep Golakiya — Android developer at D-Tech Infotech. Java, Kotlin, and an always-learning mindset." />
+    <img src="./assets/hero.svg" width="100%" alt="Deep Golakiya — Founder & CEO of D-Tech Infotech. Android development, automation, AI integrations and full-stack web development." />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deep-golakiya-255bb2261"><img src="./assets/badges/linkedin.svg" height="36" alt="Connect on LinkedIn" /></a>
+  <strong>Founder & CEO · D-Tech Infotech</strong><br />
+  Android • Automation • AI Integrations • Full-Stack Development
+</p>
+
+<p align="center">
+  <a href="https://www.dtechinfotech.in"><strong>Website ↗</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://hub.dtechinfotech.in"><strong>Apps & Tools ↗</strong></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:contact@dtechinfotech.in"><strong>Discuss a Project ↗</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deep-golakiya-255bb2261/"><img src="./assets/badges/linkedin.svg" height="36" alt="Connect with Deep Golakiya on LinkedIn" /></a>
   <a href="https://instagram.com/deep_golakiya_1"><img src="./assets/badges/instagram.svg" height="36" alt="Instagram" /></a>
   <a href="https://twitter.com/dbajud"><img src="./assets/badges/x.svg" height="36" alt="X / Twitter" /></a>
   <a href="https://discord.gg/4VrHKAHpZf"><img src="./assets/badges/discord.svg" height="36" alt="Join my Discord" /></a>
@@ -14,12 +27,29 @@
 
 ## A little about me
 
-I'm **Deep Golakiya**, an Android developer at **D-Tech Infotech**. I enjoy turning ideas into practical apps with **Java and Kotlin**—and learning something new along the way.
+I'm **Deep Golakiya**, Founder & CEO of **[D-Tech Infotech](https://www.dtechinfotech.in)**, based in **Surat, India**, working with businesses worldwide.
 
-- **Building:** RE Inventory and a manual for testing & installation.
-- **Learning:** Flutter and HMI.
-- **Collaborating:** Android apps and useful developer projects.
-- **Ask me about:** Android, Java, Kotlin, or a problem we can research together.
+My focus is **Android development and automation**—building practical applications, connecting systems and simplifying everyday business tasks. I also work on **AI integrations and full-stack websites and web applications**.
+
+Alongside D-Tech, I work as a **Software & Automation Developer at Rajesh Electronics**, focusing on Android, web, HMI and SCADA-based software solutions.
+
+I'm also **Co-Founder & Social Media Creative Manager at The Artisan Room**, combining creative work with digital content and audience engagement.
+
+- **Building:** RE Inventory, business tools, and a testing & installation manual.
+- **Learning:** Flutter and HMI development.
+- **Open to collaborating on:** Android apps, workflow automation, AI integrations and useful digital products.
+- **Ask me about:** Android, Java, Kotlin, API integrations and business automation.
+- **Project enquiries:** [contact@dtechinfotech.in](mailto:contact@dtechinfotech.in)
+
+## What I work on
+
+- **Android applications** — practical mobile experiences with Java and Kotlin.
+- **Workflow & API automation** — connecting services and reducing repetitive work.
+- **AI integrations** — business assistants and custom GPT solutions.
+- **Full-stack development** — websites, web applications and business tools.
+- **Digital creative work** — AI-assisted content and social media management through D-Tech.
+
+**[Explore D-Tech Infotech →](https://www.dtechinfotech.in)**
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -31,7 +61,11 @@ I'm **Deep Golakiya**, an Android developer at **D-Tech Infotech**. I enjoy turn
   <a href="https://github.com/deepbajud/Retrofit_Api"><img src="./assets/project-retrofit.svg" width="280" alt="Retrofit API — Kotlin API integration practice. Open repository." /></a>
 </p>
 
-<p align="center"><a href="https://github.com/deepbajud?tab=repositories"><strong>Explore all my repositories →</strong></a></p>
+<p align="center">
+  <a href="https://github.com/deepbajud?tab=repositories"><strong>Explore all my repositories →</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://hub.dtechinfotech.in"><strong>Visit the App Hub →</strong></a>
+</p>
 
 ## My toolkit
 
@@ -128,6 +162,17 @@ I'm **Deep Golakiya**, an Android developer at **D-Tech Infotech**. I enjoy turn
 </p>
 </details>
 
+## Let's build something useful
+
+Have an Android app idea, a workflow to automate or a business website to build?
+
+- **Website:** [www.dtechinfotech.in](https://www.dtechinfotech.in)
+- **Apps & tools:** [hub.dtechinfotech.in](https://hub.dtechinfotech.in)
+- **Email:** [contact@dtechinfotech.in](mailto:contact@dtechinfotech.in)
+- **Company LinkedIn:** [D-Tech Infotech](https://www.linkedin.com/company/d-tech-infotech/)
+
+**Build Smart. Grow Bold.**
+
 ## Support my work
 
 If something I've built helps you, a little support means a lot.
@@ -149,10 +194,10 @@ If something I've built helps you, a little support means a lot.
 <br />
 
 <p align="center">
-  <a href="https://linkedin.com/in/deep-golakiya-255bb2261">
+  <a href="https://www.linkedin.com/in/deep-golakiya-255bb2261/">
     <picture>
       <source media="(max-width: 600px)" srcset="./assets/footer-mobile.svg" />
-      <img src="./assets/footer.svg" width="100%" alt="Let's build something useful. Connect with Deep Golakiya on LinkedIn." />
+      <img src="./assets/footer.svg" width="100%" alt="Let's build something useful. Connect with Deep Golakiya, Founder & CEO of D-Tech Infotech, on LinkedIn." />
     </picture>
   </a>
 </p>
